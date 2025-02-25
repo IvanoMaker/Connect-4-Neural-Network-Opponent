@@ -19,3 +19,9 @@ The data used to train the model was created by simulating 5000 different random
 ### Training
 
 The model generated is a neural network made with Tensorflow.
+
+### Example Footage
+Here is example footage of two bots playing against each other.
+| ![](res/example_play.mp4) |
+|:--:|
+| *V.1 Two bots duking it out*|
