@@ -59,7 +59,7 @@ def run():
         # increment counter
         moveCounter += 1
 
-        # repete the previous steps for player 2
+        # repeat the previous steps for player 2
         if board.solved() == "#":
             if board.tie():
                 print("~ Tie! ~")
